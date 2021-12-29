@@ -6,9 +6,9 @@
      box-sizing: border-box;
  }
 
- .body {
+ /*.body {
      font-family: 'Roboto',sans-serif;
- }
+ }*/
 
  /*header style code*/
  .material-icons{
@@ -57,12 +57,28 @@
      border: none;
  }
 
- .header__search button{
+ .search-bar { 
+    width: 600px;
+    padding: 10px;
+    margin: 0;
+    border-radius: 0;
+    border: none;
+ }
+
+ /*.header__search button{
      padding: 0;
      margin: 0;
      height: 100;
      border: none;
      border-radius: 0;
+ }*/
+
+ .search-btn {
+    padding: 0;
+    margin: 0;
+    height: 100;
+    border: none;
+    border-radius: 0;
  }
 
  /*style for mainbody*/
