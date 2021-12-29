@@ -41,7 +41,7 @@
 
  }
 
- .header__search form{
+ .header__search .form{
      border: 1px solid #ddd;
      height: 35px;
      margin: 0;
