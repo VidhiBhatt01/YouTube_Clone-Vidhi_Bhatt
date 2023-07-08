@@ -1,5 +1,3 @@
-# YouTube_Clone-Vidhi_Bhatt
-
 <h2>What all I used? </h2>
 <li>HTML</li>
 <li>CSS</li>
